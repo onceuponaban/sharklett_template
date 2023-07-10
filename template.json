@@ -1,0 +1,15 @@
+{
+  "contact": "twitch.tv/sharklettvt",
+  "templates": [
+    {
+      "name": "Sharklett",
+      "sources": [
+        "https://i.imgur.com/ttLu5Oe.png"
+      ],
+      "x": 266,
+      "y": 807
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
